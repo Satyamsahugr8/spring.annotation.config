@@ -11,7 +11,6 @@ public class MyConfiguration {
 		Student s = new Student();
 		s.name= "satyam";
 		return s;
-		
 	} 
 	
 	
